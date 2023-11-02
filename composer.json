@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "v9.52.16"
+        "illuminate/support": "v10.30.1"
     },
     "autoload": {
         "psr-4": {
